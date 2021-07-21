@@ -1,2 +1,2 @@
 # API_notes
- API basics 
+ API (Application Programming Interface) basics 
